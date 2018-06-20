@@ -1,0 +1,1 @@
+package koohinoor;import koohinoor.PlayMatch;object Main extends App {  var play = new PlayMatch();  play.Play();}
